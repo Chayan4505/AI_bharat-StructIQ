@@ -1,1 +1,1 @@
-# AI_bharat-StructIQ-
+# AI_bharat-StructIQ
