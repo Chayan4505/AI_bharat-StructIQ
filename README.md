@@ -1,4 +1,5 @@
 # AI_bharat-StructIQ
+
 Visual Intelligence for Understanding Codebases
 
 CodeAtlas is a visual codebase intelligence platform that automatically converts any GitHub repository into an interactive architectural map.
@@ -54,7 +55,8 @@ Interactive UI allows exploration and querying
 
 Entire process takes a few minutes.
 
-✨ Key Features
+✨ Key Features :-
+
 Repository Understanding
 
 One-click GitHub repo ingestion
@@ -99,8 +101,9 @@ Auto-generated architecture documentation
 
 Always synchronized with source code
 
-🧠 Tech Stack
-Frontend
+🧠 Tech Stack :- 
+
+Frontend --
 
 React
 
@@ -112,7 +115,7 @@ TailwindCSS
 
 Graph visualization libraries
 
-Backend
+Backend --
 
 Node.js
 
